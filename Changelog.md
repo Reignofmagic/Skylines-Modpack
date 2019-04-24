@@ -1,10 +1,6 @@
-# Skylines-Modpack
-Issue Tracker &amp; Suggestions for the modpack
-
-Most Recent Changelog below. For old changelogs please see the changelog folder within the .minecraft folder for this modpack. 
-
 Skylines V0.1 
-Updated started in late May 2017, abandoned for a year, taken back up starting approx 4/1/19. 
+Updated started in late May 2017, abandoned for a year, taken back up starting approx 4/1/19. Total Development time 50+ hrs thus far
+
 V0.1 Released 4/23/19 for internal testing
 
 Below are listed most of the Changes to default configs. Recipe changes not listed as they are too vast. 
@@ -264,4 +260,3 @@ Added other food items to their respective categories (Nuclearcraft, avarita, Ti
 
 Rough Mobs 2
 Disabled a few special abilities, and reduced duration on most deterimental effects applied to the player. 
-
